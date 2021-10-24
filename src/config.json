@@ -1,0 +1,6 @@
+{
+  "apiKey" : "018920f75b3cefdf040902f42275c01f",
+  "apiUrl" : "https://api.openweathermap.org/data/2.5/weather",
+  "iconUrl" : "http://openweathermap.org/img/wn/",
+  "delayBeforeFetch" : 1000
+}
